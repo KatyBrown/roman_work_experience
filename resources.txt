@@ -1,0 +1,3 @@
+# Numpy Tutorial
+# (numpy.random section is not relevant)
+https://www.w3schools.com/python/numpy/numpy_intro.asp
